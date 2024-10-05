@@ -1,1 +1,1 @@
-# rnn-movie-reviews
+# nlp-genai-notebooks
